@@ -1,2 +1,2 @@
-# vitunLinux
+# week 1
 tomiwi
